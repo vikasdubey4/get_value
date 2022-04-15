@@ -6,8 +6,6 @@
 #give_value({"hj":"cv"} , "hj")
 
 #Below are sample output
-
-'''
 >>> 
 >>> give_value({"h":"l"},"h")
 dict_values(['l'])
@@ -15,4 +13,4 @@ dict_values(['l'])
 >>> give_value({"hj":"cv"} , "hj")
 dict_values(['cv'])
 >>> 
-'''
+
