@@ -1,6 +1,6 @@
 # get_value
 
-#python script to get values when dict object and key is passed
+#python script to get values when dictionary object and key is passed
 
 #Below are some sample test inputs to test the value return.
 
